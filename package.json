@@ -3,14 +3,14 @@
     "asar": "^0.10.0",
     "electron-packager": "^5.2.1",
     "electron-prebuilt": "^0.37.2",
-    "fs-jetpack": "^0.7.2",
+    "fs-jetpack": "^0.7.3",
     "gulp": "^3.9.1",
     "gulp-less": "^3.0.5",
     "gulp-util": "^3.0.7",
     "q": "^1.4.1",
-    "rollup": "^0.25.4",
+    "rollup": "^0.25.6",
     "tree-kill": "^0.1.1",
-    "yargs": "^4.3.1"
+    "yargs": "^4.3.2"
   },
   "optionalDependencies": {
     "appdmg": "^0.3.2",
